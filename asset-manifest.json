@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc038111.chunk.css",
+    "main.js": "/static/js/main.19cd2b52.chunk.js",
+    "main.js.map": "/static/js/main.19cd2b52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.13135219.js",
+    "runtime-main.js.map": "/static/js/runtime-main.13135219.js.map",
+    "static/js/2.532ec86a.chunk.js": "/static/js/2.532ec86a.chunk.js",
+    "static/js/2.532ec86a.chunk.js.map": "/static/js/2.532ec86a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f9c65d1bb18da4be501b16dc48eca35d.js": "/precache-manifest.f9c65d1bb18da4be501b16dc48eca35d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cc038111.chunk.css.map": "/static/css/main.cc038111.chunk.css.map",
+    "static/js/2.532ec86a.chunk.js.LICENSE.txt": "/static/js/2.532ec86a.chunk.js.LICENSE.txt",
+    "static/media/bmwpremium.png": "/static/media/bmwpremium.c20a7ca2.png",
+    "static/media/css3.svg": "/static/media/css3.873c4049.svg",
+    "static/media/dekoclick.png": "/static/media/dekoclick.a53714c0.png",
+    "static/media/entresillas.png": "/static/media/entresillas.3b59ea6a.png",
+    "static/media/figma.svg": "/static/media/figma.19225d9b.svg",
+    "static/media/gadelgroup.png": "/static/media/gadelgroup.63f1b40c.png",
+    "static/media/grupoicono.png": "/static/media/grupoicono.05afd8bd.png",
+    "static/media/html5.svg": "/static/media/html5.940a1fd7.svg",
+    "static/media/illustrator.svg": "/static/media/illustrator.b990f91c.svg",
+    "static/media/js.svg": "/static/media/js.7b1bdce1.svg",
+    "static/media/lines1.png": "/static/media/lines1.7fd6f752.png",
+    "static/media/mail.svg": "/static/media/mail.927e651a.svg",
+    "static/media/phone.svg": "/static/media/phone.32647762.svg",
+    "static/media/php.svg": "/static/media/php.671db62e.svg",
+    "static/media/premiumsalud.png": "/static/media/premiumsalud.b60f8447.png",
+    "static/media/react.svg": "/static/media/react.f1f1f732.svg",
+    "static/media/sass.svg": "/static/media/sass.805780b0.svg",
+    "static/media/vuejs.svg": "/static/media/vuejs.98a2ff70.svg",
+    "static/media/wordpress.svg": "/static/media/wordpress.6b6a71ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13135219.js",
+    "static/js/2.532ec86a.chunk.js",
+    "static/css/main.cc038111.chunk.css",
+    "static/js/main.19cd2b52.chunk.js"
+  ]
+}
